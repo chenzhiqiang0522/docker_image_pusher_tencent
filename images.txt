@@ -1,1 +1,2 @@
-xhofe/alist:latest
+ElasticSearch:8.17.0
+Kibana:8.17.0
