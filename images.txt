@@ -1,1 +1,1 @@
-mysql:9.3.0
+redis:7.4.4-alpine3.21
